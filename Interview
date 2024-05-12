@@ -8,7 +8,13 @@
 7. What is the most under-rated thing talked about in pentesting content ( things you only can know with time & experience that is constant )
 
 Answers:
-1.
+1. Explain how you exploit the box & what ( you liked & didn't like about your methodology & end point )
+- What is SQLi ( tools, what are they, what they can be used )
+- ( paste a string, ,looks base64 and just to be able to tell can you tell ) --> terminals -->> nmap commands
+- ( run responder --->> while its running -->> look up the hosts with nmap to see what is live & an open) 
+- responder -->> posions ( look it up )
+
+
 2.
 3.
 4.
