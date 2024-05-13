@@ -1,6 +1,6 @@
 # SQLi
 
-### How Lucky
+### How Likley
 Not as common due to evolving blue team tools. Rare to find in the wild.
 
 ### Impact
