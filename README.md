@@ -1,7 +1,6 @@
 # Resources:
 ## Tools
-
-          ### -->> sendsafely <<--
+-->> sendsafely <<--
 
 
 Purpose:
