@@ -107,9 +107,14 @@ Operation Security (opsec):
 
 
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Explain:
 
-
-
+#### CrackMapExec
+It is like a Swiss Army knife for hackers working on Windows networks. 
+It helps you check if your username and password work across many computers, run commands on them, and move around the network more easily. 
+Think of netexec as the tool’s way of letting you shout out a command that all the computers will listen to and execute, like making them all open a specific file or show their network settings.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
