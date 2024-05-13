@@ -2,8 +2,9 @@
 ## Tools
 
 #### -->> sendsafely <<--
-https://www.youtube.com/watch?v=_-52W25p7kA
+link: https://www.youtube.com/watch?v=_-52W25p7kA
 
+Purpose:
 - end-to-end encryption
 
 
