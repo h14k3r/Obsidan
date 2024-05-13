@@ -3,7 +3,7 @@
 2. What Questions do you wish you weer more prepared for
 3. What was something you struggled with during the interview
 4. What are 5 ( top of the head "need to know" tools you use everyday )
-5. What is the most common thing you do ( behavior wise ) during a work day
+5. What is the most common thing you do ( behavior wise ) during a work day 
 6. what the things you don't like about pentesting ( in work setting: I.e., difficult clients, repetitive report write ups, etc. )
 7. What is the most under-rated thing talked about in pentesting content ( things you only can know with time & experience that is constant )
 
@@ -13,6 +13,65 @@ Answers:
 - ( paste a string, ,looks base64 and just to be able to tell can you tell ) --> terminals -->> nmap commands
 - ( run responder --->> while its running -->> look up the hosts with nmap to see what is live & an open) 
 - responder -->> posions ( look it up )
+
+2. Linux ( knowledge ) ( living off the land <<---------- ) 
+- utilize what is already avalible on the machine ( ONLY what you have ) 
+
+opsec::
+- commands and actions mostly envo safe - no detection - stealthy - tools that have good opsec 
+- whoami -- echo %username% -->> avoid detection ( stealth )
+
+Tools: 
+- Google Calandar  ( monday - start of week )
+- DIscord profecient 
+- SSH ( access to internal machines ) 
+
+- burp
+- tmux
+- vmware ( VMs )  -->> base image ( has all the tools, main image --> snap ) 
+ ( each client gets a new image, and clonned from the base image where all the tools are kept ) -->> for confi - destroys image after test
+
+- inpacket TOOLS
+- Net
+
+REPORTS:
+- sendsafley.com
+- tresorit.com
+( sending conf data across ) 
+
+
+( sales / engineer )
+
+- project ( float ) -->> which calander we get tests
+- know about 2 weeks prior to the test ( confirm scope, about the test )
+- yes/no to the kick-off call ( compliance - don't really care )  60/40 ratio of care
+- Whenever the engagement starts ( type of taste matters -->> grey-->> let them know your starting -->> depends: no micro-managing ( if there is a crit -->> let them know right away )
+
+
+Netex
+
+Tools: 
+Plextrace ( create write ups & use template ) 
+-->> use template
+
+
+
+Difficult: 
+- CLients aren't responsive / Difficult avalibity 
+ --->>>> imposter sysndrome, keeping irrelvant -->> not doing enough -->> " one flaw to mention " 
+Team Connection & Chemistry ( !!!! ) -->> not giving up
+
+!!!!!!!!!!!! THis has to be a hobby !!!!!!!!!!!
+
+
+
+COVER YOUR ASS ( ALWAYS ALWAYS ASK ) 
+ONLY WRITTEN COMMUNICTION COUNTS ( ALWAYS OVER EMAIL ) 
+----->> buffer period after confirmation
+
+- can request a re-test -->> 
+
+fsahsfaih
 
 
 2.
