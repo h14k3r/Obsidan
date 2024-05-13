@@ -1,67 +1,3 @@
-#### Ask the Hummy
-1. Types of questions you were asked during the interview
-2. What Questions do you wish you weer more prepared for
-3. What was something you struggled with during the interview
-4. What are 5 ( top of the head "need to know" tools you use everyday )
-5. What is the most common thing you do ( behavior wise ) during a work day 
-6. what the things you don't like about pentesting ( in work setting: I.e., difficult clients, repetitive report write ups, etc. )
-7. What is the most under-rated thing talked about in pentesting content ( things you only can know with time & experience that is constant )
-
-Answers:
-1. Explain how you exploit the box & what ( you liked & didn't like about your methodology & end point )
-- What is SQLi ( tools, what are they, what they can be used )
-- ( paste a string, ,looks base64 and just to be able to tell can you tell ) --> terminals -->> nmap commands
-- ( run responder --->> while its running -->> look up the hosts with nmap to see what is live & an open) 
-- responder -->> posions ( look it up )
-
-2. Linux ( knowledge ) ( living off the land <<---------- ) 
-- utilize what is already avalible on the machine ( ONLY what you have ) 
-
-opsec::
-- commands and actions mostly envo safe - no detection - stealthy - tools that have good opsec 
-- whoami -- echo %username% -->> avoid detection ( stealth )
-
-Tools: 
-- Google Calandar  ( monday - start of week )
-- DIscord profecient 
-- SSH ( access to internal machines ) 
-
-- burp
-- tmux
-- vmware ( VMs )  -->> base image ( has all the tools, main image --> snap ) 
- ( each client gets a new image, and clonned from the base image where all the tools are kept ) -->> for confi - destroys image after test
-
-- inpacket TOOLS
-- Net
-
-REPORTS:
-- sendsafley.com
-- tresorit.com
-( sending conf data across ) 
-
-
-( sales / engineer )
-
-- project ( float ) -->> which calander we get tests
-- know about 2 weeks prior to the test ( confirm scope, about the test )
-- yes/no to the kick-off call ( compliance - don't really care )  60/40 ratio of care
-- Whenever the engagement starts ( type of taste matters -->> grey-->> let them know your starting -->> depends: no micro-managing ( if there is a crit -->> let them know right away )
-
-
-Netex
-
-
-
-Difficult: 
-- CLients aren't responsive / Difficult avalibity 
- --->>>> imposter sysndrome, keeping irrelvant -->> not doing enough -->> " one flaw to mention " 
-Team Connection & Chemistry
-
-!!!!!!!!!!!! THis has to be a hobby !!!!!!!!!!!
-
-
-
-
 __________________________________________________
                    Main
 
@@ -85,6 +21,7 @@ ED:
  - CYA ( Cover Your Ass )
  - Everything should be in writting before executing
  - Measure 3x : Cut 1x
+-
 
 Operation Security (opsec):
      -->> whoami [x]
@@ -164,3 +101,23 @@ Sandbox:
 Operation Security (opsec):
      -->> whoami [x]
      -->> echo %username% (/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions asked:
+1. Pick a "box" & then explain how you exploited it
+    ( Write what you liked & Disliked about your methodology )
+
+2. What is SQLi:
+ - How you'd test for Blind SQLi
