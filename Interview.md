@@ -16,7 +16,7 @@ Operation Security (opsec):
      -->> whoami [x]
      -->> echo %username% (/)
      
-#### Everyday
+### Everyday
  - living off the land ( native tools to pentest with --> windows tools )
  - CYA ( Cover Your Ass )
  - Everything should be in writting before executing
@@ -32,19 +32,19 @@ GTK:
 
 
 
-#### Tools
+### Tools
 
 1. impacket tools
 2. netexec ( crackmapexec )
 3. responder
 4. mitm6
 
-#### Report
+### Report
 www.sendsafely.com ( sendsafely )
 www.tresorit.com ( Tresorit )
 
 
-#### template 
+### template 
 Plextrace =  ( create write ups & use template )
 https://plextrac.com/platform/reports/
 
