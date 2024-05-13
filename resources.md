@@ -1,6 +1,3 @@
-# Obsidan
-Notes
-
 # Resources:
 
 ## Video:
