@@ -23,5 +23,8 @@ All of the CIA
 
 
 #### out-of-band
+> attacker is unable to use the same channel to launch the attack & gather the results of the attack. Relies on the ability for an application to make a network connection.
+>
+> Example: DNS or HTTP to deliever data to the attacker
 
  
