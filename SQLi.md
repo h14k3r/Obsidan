@@ -9,8 +9,8 @@ All of the CIA
 ## Types
 
 #### inband
-  error && union
-  > Attacker uses the same communication channels to launch the attach & gather the results of the attack    
+  1.error  2.union
+  > Attacker uses the same communication channels to launch the attack & gather the results of the attack    
 
 #### blind
   boolean && time    
