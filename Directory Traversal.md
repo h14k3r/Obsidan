@@ -5,7 +5,7 @@ Allows an attacker to read files on the server that is running the application.
 
 Example of attack:
 > https://www.random.com/images?filename=/etc/passwd
->       result = {lists ours sensitive data}
+>       result = {lists out sensitive data}
 
 # how to find
 
