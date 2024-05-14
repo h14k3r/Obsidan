@@ -8,7 +8,7 @@ All of the CIA
 
 ## Types
 
-#### inband
+### inband
 Attacker uses the same communication channels to launch the attack & gather the results of the attack.
 If you launch an attack on the app & get the results back on the app, it is considered ( in band )
 
