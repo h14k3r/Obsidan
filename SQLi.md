@@ -10,8 +10,8 @@ All of the CIA
 
 #### inband
   > Attacker uses the same communication channels to launch the attack & gather the results of the attack
-  > 1.error -->> force the database to give you an error & resulting in more information about how things operate at the backend.  
-  > 2.union -->> 
+   1.error -->> force the database to give you an error & resulting in more information about how things operate at the backend.  
+   2.union -->> 
   
       
 
