@@ -9,6 +9,7 @@ Example of attack:
 
 # how to find
 Code Review:
+
 > <?php
 > $template = 'blue.php'
 > if ( is_set ( $_COOKIE['TEMPLATE'] ) )
