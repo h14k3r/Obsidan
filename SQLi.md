@@ -16,7 +16,10 @@ All of the CIA
       
 
 #### blind
-  boolean && time    
+ > no actual transfer of data ( no results are shown on the web-application. You rely on "behavior" of the application based on the kind of attack. For example: {SLEEP}
+  
+  - boolean
+  - time    
 
 
 #### out-of-band
