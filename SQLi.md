@@ -13,6 +13,7 @@ All of the CIA
   
 > If you launch an attack on the app & get the results back on the app, it is considered ( in band )
 >
+> ------------------------------
 > Error-Based:
 >
 > Forces DB to generate an error, giving the attacker information upon which to refine their injection.
