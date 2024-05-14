@@ -11,9 +11,8 @@ All of the CIA
 #### inband
   > Attacker uses the same communication channels to launch the attack & gather the results of the attack
 > using a single quote to break the database and the error revealing what database is being used & what version
--
-For example: error -->> force the database to give you an error & resulting in more information about how things operate at the backend.  
-  union -->> 
+- error -->> force the database to give you an error & resulting in more information about how things operate at the backend.  
+- union -->> 
   
       
 
