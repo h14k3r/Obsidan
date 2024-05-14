@@ -16,6 +16,18 @@ If you launch an attack on the app & get the results back on the app, it is cons
 >
 > Forces DB to generate an error, giving the attacker information upon which to refine their injection.
 
+* Example Input:
+> www.random.com/app.php?id='
+
+* Example Error:
+> You have an error in your SQL sytax, check the manual that corresponds to your MySQL version...
+
+
+
+
+
+
+
 #### blind
  > no actual transfer of data ( no results are shown on the web-application. You rely on "behavior" of the application based on the kind of attack. For example: {SLEEP}
   
