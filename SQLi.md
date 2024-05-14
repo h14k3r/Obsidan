@@ -23,7 +23,8 @@ If you launch an attack on the app & get the results back on the app, it is cons
 > You have an error in your SQL sytax, check the manual that corresponds to your MySQL version...
 
 
-
+Union-Based: 
+- in-band SQLi technique that leverages the UNION operator to combine the results of two queries into a single result set
 
 
 
