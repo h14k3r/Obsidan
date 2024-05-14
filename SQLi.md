@@ -11,7 +11,6 @@ All of the CIA
 #### inband
   > Attacker uses the same communication channels to launch the attack & gather the results of the attack
   
-Indepth
 > If you launch an attack on the app & get the results back on the app, it is considered ( in band )
 >
 > Error-Based:
