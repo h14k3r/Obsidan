@@ -8,7 +8,7 @@ All of the CIA
 
 ## Types
 
-### inband
+### INBAND
 Attacker uses the same communication channels to launch the attack & gather the results of the attack.
 If you launch an attack on the app & get the results back on the app, it is considered ( in band )
 
@@ -28,7 +28,7 @@ If you launch an attack on the app & get the results back on the app, it is cons
 
 
 
-#### blind
+### BLIND
  > no actual transfer of data ( no results are shown on the web-application. You rely on "behavior" of the application based on the kind of attack. For example: {SLEEP}
   
   - boolean
