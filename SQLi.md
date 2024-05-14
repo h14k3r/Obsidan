@@ -26,7 +26,8 @@ If you launch an attack on the app & get the results back on the app, it is cons
 Union-Based: 
 - in-band SQLi technique that leverages the UNION operator to combine the results of two queries into a single result set
 
-
+Example:
+> www.random.com/app.php?id=' UNION SELECT username, password FROM users--
 
 
 ### BLIND
